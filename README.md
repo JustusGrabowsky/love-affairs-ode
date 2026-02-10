@@ -6,10 +6,10 @@ Modeling relationship dynamics using nonlinear systems. Two coupled ODEs determi
 
 ## Features
 
-- 📊 **Phase portraits** showing all possible trajectories
-- 📈 **Time series analysis** of affinity over time  
-- 🎬 **Animated simulations** visualizing dynamics in real time
-- 🔍 **Eigenvalue classification** revealing mathematical structure
+- **Phase portraits** showing all possible trajectories
+- **Time series analysis** of affinity over time  
+- **Animated simulations** visualizing dynamics in real time
+- **Eigenvalue classification** revealing mathematical structure
 
 ## Quick Start
 
